@@ -11,7 +11,7 @@ import android.os.Bundle;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-    String[] country={"India","USA","Africa","UK","Australia","France","Ingland"};
+    String[] country={"MAD","MAN","EDE","ETI","PHP","PWP"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
